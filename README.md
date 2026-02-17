@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aurecueil)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=Aurecueil&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 
 ## Current Project
  - [cslol-go](https://github.com/Aurecueil/Cs-lol-go) mod manager for [League of Legends](https://www.leagueoflegends.com/)
